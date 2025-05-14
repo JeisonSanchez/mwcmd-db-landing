@@ -1,0 +1,36 @@
+[
+	{
+		"pregunta": "¿Necesito tener un canal activo para inscribirme?",
+		"respuesta": [
+			"Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde dolorum ratione, voluptatum temporibus voluptates debitis dicta enim animi aperiam adipisci.",
+			"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Omnis, accusantium."
+		]
+	},
+	{
+		"pregunta": "¿Cuál es la metodología?",
+		"respuesta": [
+			"Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde dolorum ratione, voluptatum temporibus voluptates debitis dicta enim animi aperiam adipisci."
+		]
+	},
+	{
+		"pregunta": "¿Este curso me garantiza ganar dinero?",
+		"respuesta": [
+			"Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde dolorum ratione, voluptatum temporibus voluptates debitis dicta enim animi aperiam adipisci.",
+			"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Omnis, accusantium."
+		]
+	},
+	{
+		"pregunta": "¿Recibiré un certificado al finalizar?",
+		"respuesta": [
+			"Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde dolorum ratione, voluptatum temporibus voluptates debitis dicta enim animi aperiam adipisci.",
+			"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Omnis, accusantium."
+		]
+	},
+	{
+		"pregunta": "¿Qué pasa si no me gusta el curso?",
+		"respuesta": [
+			"Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde dolorum ratione, voluptatum temporibus voluptates debitis dicta enim animi aperiam adipisci.",
+			"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Omnis, accusantium."
+		]
+	}
+]

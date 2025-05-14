@@ -1,0 +1,62 @@
+[
+	{
+		"nombre": "Evelyn Vanessa Torres",
+		"foto_url": "/uploads/testimonios/vanessa.webp",
+		"social": {
+			"usuario": "@vanetorres4",
+			"link": "https://www.instagram.com/vanetorres4"
+		},
+		"testimonio": "Antes del curso, hacía streams por hobby y ganaba muy poco. Gracias a lo que aprendí sobre suscripciones, donaciones y afiliados, ahora ingreso más de $800 mensuales.",
+		"estrellas": 5
+	},
+	{
+		"nombre": "Juan Carlos Lopez",
+		"foto_url": "/uploads/testimonios/juan.webp",
+		"social": {
+			"usuario": "@juancarlosl",
+			"link": "https://www.instagram.com/juancarlosl"
+		},
+		"testimonio": "Antes del curso, hacía streams por hobby y ganaba muy poco. Gracias a lo que aprendí sobre suscripciones, donaciones y afiliados, ahora ingreso más de $800 mensuales.",
+		"estrellas": 4
+	},
+	{
+		"nombre": "María Isabel Ortiz Ramos",
+		"foto_url": "/uploads/testimonios/maria.webp",
+		"social": {
+			"usuario": "@mariaortiz",
+			"link": "https://www.instagram.com/mariaortiz"
+		},
+		"testimonio": "Antes del curso, hacía streams por hobby y ganaba muy poco. Gracias a lo que aprendí sobre suscripciones, donaciones y afiliados, ahora ingreso más de $800 mensuales.",
+		"estrellas": 5
+	},
+	{
+		"nombre": "Andrea Ballesteros Pardo",
+		"foto_url": "/uploads/testimonios/andrea.webp",
+		"social": {
+			"usuario": "@andrea2025",
+			"link": "https://www.instagram.com/andrea2025"
+		},
+		"testimonio": "Antes del curso, hacía streams por hobby y ganaba muy poco. Gracias a lo que aprendí sobre suscripciones, donaciones y afiliados, ahora ingreso más de $800 mensuales.",
+		"estrellas": 4
+	},
+	{
+		"nombre": "Gerson Martinez Fernandez",
+		"foto_url": "/uploads/testimonios/gerson.webp",
+		"social": {
+			"usuario": "@gersonmartinez",
+			"link": "https://www.instagram.com/gersonmartinez"
+		},
+		"testimonio": "Antes del curso, hacía streams por hobby y ganaba muy poco. Gracias a lo que aprendí sobre suscripciones, donaciones y afiliados, ahora ingreso más de $800 mensuales.",
+		"estrellas": 5
+	},
+	{
+		"nombre": "Mateo Ramírez Sanchez",
+		"foto_url": "/uploads/testimonios/mateo.webp",
+		"social": {
+			"usuario": "@mateoramirez",
+			"link": "https://www.instagram.com/mateoramirez"
+		},
+		"testimonio": "Antes del curso, hacía streams por hobby y ganaba muy poco. Gracias a lo que aprendí sobre suscripciones, donaciones y afiliados, ahora ingreso más de $800 mensuales.",
+		"estrellas": 3
+	}
+]

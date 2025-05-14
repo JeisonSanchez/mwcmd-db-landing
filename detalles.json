@@ -1,0 +1,22 @@
+[
+	{
+		"detalle": "Nivel principiante",
+		"descripcion": "No se requiere experiencia previa",
+		"icono": "icon-meter-slow"
+	},
+	{
+		"detalle": "Duración del curso",
+		"descripcion": "15 horas aproximadamente",
+		"icono": "icon-clock"
+	},
+	{
+		"detalle": "Alumnos registrados",
+		"descripcion": "3.289 personas se han inscrito",
+		"icono": "icon-user3"
+	},
+	{
+		"detalle": "Cronograma flexible",
+		"descripcion": "Aprende a tu propio ritmo",
+		"icono": "icon-headset"
+	}
+]
