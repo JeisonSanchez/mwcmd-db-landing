@@ -1,0 +1,66 @@
+{
+	"titulo": "¡Inscríbete ahora!",
+	"descripcion": "Acceso completo al curso + TODOS los bonos exclusivos por tiempo limitado",
+	"boton": "INSCRIBIRME AHORA",
+	"precio": 120,
+	"pago_exitoso": {
+		"titulo": "¡Pago realizado con éxito!",
+		"descripcion": "Gracias por tu pago, en las próximas horas hábiles recibirás un correo electrónico con las intrucciones de acceso."
+	}, 
+	"pago_fallido": {
+		"titulo": "Pago no realizado",
+		"descripcion": "Por favor intenta realizar el pago nuevamente."
+	}, 
+	"enlaces": [
+		{
+			"imagen": "/uploads/pagos/wompi.jpg",
+			"link": "https://www.wompi.co"
+		},
+		{
+			"imagen": "/uploads/pagos/paypal.jpg",
+			"link": "https://www.paypal.com"
+		},
+		{
+			"imagen": "/uploads/pagos/stripe.jpg",
+			"link": "https://www.stripe.com"
+		}
+	],
+	"cupones": [
+		{
+			"codigo": "DESCUENTO49",
+			"nuevo_precio": 49,
+			"enlaces": [
+				{
+					"imagen": "/uploads/pagos/wompi.jpg",
+					"link": "https://www.wompi.co/?precio=49"
+				},
+				{
+					"imagen": "/uploads/pagos/paypal.jpg",
+					"link": "https://www.paypal.com/?precio=49"
+				},
+				{
+					"imagen": "/uploads/pagos/stripe.jpg",
+					"link": "https://www.stripe.com/?precio=49"
+				}
+			]
+		},
+		{
+			"codigo": "DESCUENTO80",
+			"nuevo_precio": 80,
+			"enlaces": [
+				{
+					"imagen": "/uploads/pagos/wompi.jpg",
+					"link": "https://www.wompi.co/?precio=80"
+				},
+				{
+					"imagen": "/uploads/pagos/paypal.jpg",
+					"link": "https://www.paypal.com/?precio=80"
+				},
+				{
+					"imagen": "/uploads/pagos/stripe.jpg",
+					"link": "https://www.stripe.com/?precio=80"
+				}
+			]
+		}
+	]
+}

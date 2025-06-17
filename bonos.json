@@ -1,20 +1,24 @@
-[
-	{
-		"nombre_bono": "Guía de Equipos Económicos para Empezar a Streamear",
-		"imagen_url": "/uploads/cursos/monetizacion-streaming/bonos/bono1.webp",
-		"descripcion": "Aprende qué micrófono, cámara y luz usar sin gastar de más. Ideal para comenzar con calidad profesional desde casa.",
-		"valorado": "USD $29"
-	},
-	{
-		"nombre_bono": "Pack de Plantillas Profesionales para Streaming",
-		"imagen_url": "/uploads/cursos/monetizacion-streaming/bonos/bono2.webp",
-		"descripcion": "Incluye overlays, transiciones animadas y diseños listos para OBS y Streamlabs. Personalizables y 100% editables.",
-		"valorado": "USD $47"
-	},
-	{
-		"nombre_bono": "Checklist de Monetización Rápida por Plataforma",
-		"imagen_url": "/uploads/cursos/monetizacion-streaming/bonos/bono3.webp",
-		"descripcion": "Checklist descargable para activar ingresos en YouTube, Twitch, TikTok y Facebook.",
-		"valorado": "USD $19"
-	}
-]
+{
+	"titulo": "Bonos exclusivos incluidos <span class='s-TQXT5JpXOBVo'>con tu inscripción</span>",
+	"descripcion": "¡Inscribiéndote hoy, recibirás estos 3 bonos adicionales totalmente GRATIS!",
+	"items": [
+		{
+			"nombre_bono": "Guía de Equipos Económicos para Empezar a Streamear",
+			"imagen_url": "/uploads/cursos/monetizacion-streaming/bonos/bono1.webp",
+			"descripcion": "Aprende qué micrófono, cámara y luz usar sin gastar de más. Ideal para comenzar con calidad profesional desde casa.",
+			"valorado": "USD $29"
+		},
+		{
+			"nombre_bono": "Pack de Plantillas Profesionales para Streaming",
+			"imagen_url": "/uploads/cursos/monetizacion-streaming/bonos/bono2.webp",
+			"descripcion": "Incluye overlays, transiciones animadas y diseños listos para OBS y Streamlabs. Personalizables y 100% editables.",
+			"valorado": "USD $47"
+		},
+		{
+			"nombre_bono": "Checklist de Monetización Rápida por Plataforma",
+			"imagen_url": "/uploads/cursos/monetizacion-streaming/bonos/bono3.webp",
+			"descripcion": "Checklist descargable para activar ingresos en YouTube, Twitch, TikTok y Facebook.",
+			"valorado": "USD $19"
+		}
+	]
+}

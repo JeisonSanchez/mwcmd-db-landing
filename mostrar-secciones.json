@@ -1,0 +1,11 @@
+{
+	"temario": true,
+	"instructor": true,
+	"testimonios": true,
+	"bonos": true,
+	"soporte": true,
+	"responsabilidad": true,
+	"ingresar": true,
+	"texto_boton_inscribirme": "Tomar curso",
+	"texto_boton_sobre_curso": "Sobre el curso"
+}
